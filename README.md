@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-I’m an Electrical and Electronics Engineering graduate passionate about leveraging technology to solve problems. I’m currently diving into **machine learning**, **data science**, and **computer vision** to understand their potential and applications.
+I’m an Electrical and Electronics Engineering graduate passionate about leveraging  
+technology to solve problems. I’m currently diving into **machine learning**, **data  
+science**, and **computer vision** to understand their potential and applications.
 
 ---
 
@@ -22,7 +24,9 @@ I’m an Electrical and Electronics Engineering graduate passionate about levera
 
 ## 🌟 What Inspires Me
 
-I’m inspired by how technology has always shaped and continues to transform the world. From groundbreaking innovations to everyday advancements, tech has the power to solve complex problems and improve lives.
+I’m inspired by how technology has always shaped and continues to transform the world.  
+From groundbreaking innovations to everyday advancements, tech has the power to solve  
+complex problems and improve lives.
 
 ---
 

@@ -8,9 +8,10 @@
 
 ## 🚀 About Me
 
-I’m an Electrical and Electronics Engineering graduate passionate about leveraging  
-technology to solve problems. I’m currently diving into **machine learning**, **data  
-science**, and **computer vision** to understand their potential and applications.
+I’m an Electrical and Electronics Engineering graduate passionate about  
+leveraging technology to solve problems. I’m currently diving into **machine  
+learning**, **data science**, and **computer vision** to understand their  
+potential and applications.
 
 ---
 

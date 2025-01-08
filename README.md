@@ -28,7 +28,7 @@ I’m inspired by how technology has always shaped and continues to transform th
 
 ## 📫 Let’s Connect
 
-- **GitHub:** [https://github.com/jake](https://github.com/jake)  
-- **Email:** [jakeni@gmail.com](mailto:jakeni@gmail.com)
+- **GitHub:** [https://github.com/hassanql](https://github.com/hassanql)  
+- **Email:** [hassanminivice@gmail.com](mailto:hassanminivice@gmail.com)
 
 ---

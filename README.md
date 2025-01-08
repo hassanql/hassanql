@@ -25,8 +25,8 @@ potential and applications.
 
 ## 🌟 What Inspires Me
 
-I’m inspired by how technology has always shaped and continues to transform the  
-world. From groundbreaking innovations to everyday advancements, tech has the  
+I’m inspired by how technology has always shaped and continues to transform the
+world. From groundbreaking innovations to everyday advancements, tech has the
 power to solve complex problems and improve lives.
 
 ---

@@ -1,39 +1,26 @@
 # Hi, I'm Hassan 👋
 
-👨‍💻 **Aspiring Machine Learning & Data Science Enthusiast**  
-🎓 **Electrical & Electronics Engineering Graduate**  
-🔍 **Currently Exploring:** Machine Learning, Data Science  
+**AI Researcher | Google DeepMind Scholar**
+
+I’m an Electrical and Electronics Engineer turned AI researcher, currently pursuing my Master's in AI at AIMS South Africa. I love building things at the intersection of complex systems, reinforcement learning, and trustworthy AI.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I'm Doing Now
 
-I’m an Electrical and Electronics Engineering graduate passionate about  
-leveraging technology to solve problems. I’m currently diving into **machine  
-learning**, **data science**, and **computer vision** to understand their  
-potential and applications.
-
----
-
-## 🎯 Current Focus
-
-- Exploring the field of **machine learning** and **deep learning**.
-- Developing expertise in various **machine learning** algorithms and frameworks.
-- Staying updated with the latest trends in **AI** and **deep learning** research.
+- **Studying:** Master's in AI at AIMS/UCT South Africa. 
+- **Previously:** Spent 2 years as an Autonomous Systems Engineer building AI-driven environmental monitoring tools.
+- **Focus Areas:** Reinforcement Learning, LLM Alignment & Reasoning.
 
 ---
 
-## 🌟 What Inspires Me
+## 🌟 What Drives Me
 
-I’m inspired by how technology has always shaped and continues to transform the
-world. From groundbreaking innovations to everyday advancements, tech has the
-power to solve complex problems and improve lives.
+I’m inspired by the mechanics of intelligence and how technology shapes the world. From optimizing complex models to making AI systems more reliable and interpretable, I want to build tools that solve hard, real-world problems.
 
 ---
 
 ## 📫 Let’s Connect
 
-- **GitHub:** [https://github.com/hassanql](https://github.com/hassanql)  
-- **Email:** [hassanminivice@gmail.com](mailto:hassanminivice@gmail.com)
-
----
+- **GitHub:** [@hassanql](https://github.com/hassanql)
+- **Email:** [hassan.suliman017@gmail.com](mailto:hassan.suliman017@gmail.com)
